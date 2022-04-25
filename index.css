@@ -1,0 +1,9 @@
+h1 {
+    background-color: blue;
+}
+
+h3, h4 {
+    color: red;
+    border: 1px solid purple;
+    padding: 10px;
+}
